@@ -20,7 +20,7 @@ Offene Daten stehen in einem nicht-proprietären, [offenen Format](http://openda
 ### Vorgaben
 Für tabellarische Daten verwenden wir das Format [CSV](http://opendatahandbook.org/glossary/en/terms/csv/) in Unicode UTF-8 Kodierung (**nicht** XLS). <br>
 
-Variabeln und Werte trennen wir mittels Kommata `,` (**nicht** mittels Semikolons `;`) voneinander ab.
+Variabeln und Werte werden in einer CSV standardgemäß mittels Kommata `,` getrennt. Wir akzeptieren jedoch auch, wie im deutschen Standard üblich, ein Semikolon als Trennzeichen  `;`.
 - [So erstelle ich aus einer XLS-Datei ein CSV.](https://github.com/openZH/mdd-ogd-handbook/blob/main/publikationsleitlinien/UTF-8-kodieren.md)
 - [So speichere ich ein CSV als Unicode (UTF-8) ab.](https://github.com/openZH/mdd-ogd-handbook/blob/main/publikationsleitlinien/UTF-8-kodieren.md)
 
