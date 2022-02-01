@@ -5,7 +5,7 @@
 
 # Leitlinien der Metropolregion Rhein-Neckar für einfach nutzbare Behördendaten
 
-Diese Leitlinien basieren auf den Leitlinien des [Kantons Zürich] (https://github.com/openZH/mdd-ogd-handbook/blob/main/publikationsleitlinien.md) für einfach nutzbare Behördendaten.
+Diese Leitlinien basieren auf den Leitlinien des [Kantons Zürich](https://github.com/openZH/mdd-ogd-handbook/blob/main/publikationsleitlinien.md) für einfach nutzbare Behördendaten.
 
 Handlungsleitende Normen, um offene Behördendaten ('Open Government Data', OGD) bereitzustellen, die einfach nutzbar sind:
 - [Datei-Formate](#datei-formate)
