@@ -37,7 +37,7 @@ Tabellarische Daten im Format CSV strukturieren wir gemäss dem Prinzip ['Tidy D
 Das heisst: [pro Variable eine Spalte](#pro-variable-eine-spalte), [pro Beobachtung eine Zeile](#pro-beobachtung-eine-zeile) und [pro Wert eine Zelle](#pro-wert-eine-zelle). <br>
 
 [Beispiel](https://www.zh.ch/de/politik-staat/opendata.html?keyword=ogd#/details/523@fachstelle-ogd-kanton-zuerich): <br>
-![tidy_data_bsp](publikationsleitlinien/tidy_data_bsp.png)
+![tidy_data_bsp](https://github.com/openZH/mdd-ogd-handbook/blob/main/publikationsleitlinien/tidy_data_bsp.png)
 
 #### Pro Variable eine Spalte
 Keine Spalten-Hierarchien, also keine miteinander zusammengeführten Zellen (z.B. um Ober- und Unterkategorien zu repräsentieren), sondern Oberkategorien in einer ersten Spalte, Unterkategorien in einer zweiten Spalte. <br>
