@@ -25,7 +25,7 @@ Variabeln und Werte trennen wir mittels Kommata `,` (**nicht** mittels Semikolon
 - [So speichere ich ein CSV als Unicode (UTF-8) ab.](https://github.com/openZH/mdd-ogd-handbook/blob/main/publikationsleitlinien/UTF-8-kodieren.md)
 
 ### Empfehlungen
-Für Daten mit komplexen Strukturen oder um Daten einfach zwischen Programmen und Systemen zu übertragen, eignen sich die Formate [JSON](http://opendatahandbook.org/glossary/en/terms/json/) sehr und [XML](http://opendatahandbook.org/glossary/en/terms/xml/) gut.
+Für Daten mit komplexen Strukturen oder um Daten einfach zwischen Programmen und Systemen zu übertragen, eignet sich das Format [JSON](http://opendatahandbook.org/glossary/en/terms/json/) sehr gut.
 
 ## Daten-Strukturen
 
