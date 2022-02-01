@@ -54,7 +54,7 @@ jahr,organisationseinheit,gesuche_haengig_jan,gesuche_total,zugang_uneingeschrae
 2014,Direktion der Justiz und des Innern,11,31,19
 ...
 ```
-Wir verzichten auf überflüssige Variablen (z.B. mit denselben Wert über die gesamte Reihe). Die Anzahl Variablen ist nicht beschränkt. Dabei spielt es keine Rolle, wenn man in der Fensteransicht nicht mehr alle Variablen auf einmal sieht. <br>
+Die Anzahl Variablen ist nicht beschränkt. Dabei spielt es keine Rolle, wenn man in der Fensteransicht nicht mehr alle Variablen auf einmal sieht. <br>
 
 #### Pro Beobachtung eine Zeile
 - Keine Leerzeilen.
@@ -69,7 +69,7 @@ Alle Zellen einer Spalte haben dasselbe Daten-Format. Die häufigsten sind:
 2. `Zahl`
 3. `Datum`
 4. `Uhrzeit`
-5. `URL`.
+5. `URL`
 
 Einheitsangaben dürfen nicht zusammen mit Werten in derselben Zelle stehen. <br>
 
