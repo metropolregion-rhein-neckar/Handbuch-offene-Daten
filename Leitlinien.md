@@ -1,12 +1,11 @@
 
-Version, Datum: **v1.0, 2021-12-16** <br>
-Status: **in Kraft** <br>
-Verwalterin: **[Fachausschuss Open Government Data des Kantons Zürich](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/statistisches-amt/open-government-data/fachausschuss-open-government-data.html#910522844)**
 
-> **Feedback (Hinweise, Wünsche und Fragen)** bitte [als Issue erfassen](https://github.com/openZH/mdd-ogd-handbook/issues) oder per E-Mail senden an: info@open.zh.ch
+> **Feedback (Hinweise, Wünsche und Fragen)** bitte per E-Mail senden an: heinrich.lorai@m-r-n.com
 
 
-# Leitlinien des Kantons Zürich für einfach nutzbare Behördendaten
+# Leitlinien der Metropolregion Rhein-Neckar für einfach nutzbare Behördendaten
+
+Diese Leitlinien basieren auf den Leitlinien des [Kantons Zürich] (https://github.com/openZH/mdd-ogd-handbook/blob/main/publikationsleitlinien.md) für einfach nutzbare Behördendaten.
 
 Handlungsleitende Normen, um offene Behördendaten ('Open Government Data', OGD) bereitzustellen, die einfach nutzbar sind:
 - [Datei-Formate](#datei-formate)
