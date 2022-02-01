@@ -1,7 +1,7 @@
 # Handbuch-offene-Daten
 
 
-> **Feedback (Hinweise, Wünsche und Fragen)** bitte per E-Mail senden an: heinrich.lorai@m-r-n.com
+> **Feedback (Hinweise, Wünsche und Fragen)** bitte per E-Mail senden an: heinrich.lorei@m-r-n.com
 
 
 # Leitlinien der Metropolregion Rhein-Neckar für einfach nutzbare Behördendaten
