@@ -74,7 +74,7 @@ Alle Zellen einer Spalte haben dasselbe Daten-Format. Die häufigsten sind:
 Einheitsangaben dürfen nicht zusammen mit Werten in derselben Zelle stehen. <br>
 
 ##### 1. Text 
-Werte mit Daten-Format `Text`, die Kommas enthalten, klammern wir zwingend mittels Anführungs- und Schlusszeichen ein (z.B. `"Französisch, Deutsch"`). Das ist wichtig, damit diese Text-Inhalte (in der Fachsprache bezeichnet als `String` bzw. Zeichenkette) trotz Leerzeichen oder Kommas als zusammengehörend interpretiert werden. <br>
+Werte mit Daten-Format `Text`, die Kommas enthalten, klammern wir zwingend mittels Anführungs- und Schlusszeichen ein (z.B. `"Französisch, Deutsch"`). Das ist wichtig, damit diese Text-Inhalte (in der Fachsprache bezeichnet als `String` bzw. Zeichenkette) trotz Leerzeichen oder Kommas als zusammengehörend interpretiert werden. Falls als Trennzeichen ein Semikolon verwendet wurde, kann dieser Punkt vernachlässigt werden. <br>
 
 ##### 2. Zahl 
 Werte mit Daten-Format `Zahl` formatieren wir einheitlich ohne Hochkommas, Leerzeichen oder andere 1000er-Trennzeichen.
@@ -95,7 +95,7 @@ Wir wählen möglichst aussagekräftige Spaltenüberschriften (Variabeln). Ihre 
 - (wenn kurz) in der Metadaten-Beschreibung der entsprechenden Daten-Ressource oder
 - (wenn ausführlicher) auf einer HTML-Page, in einer TXT- oder PDF-Datei, die wir in den Metadaten unter "Weitere Informationen" referenzieren.
 
-Werte, die ausdrücklich unbekannt sind, weisen wir als `NA` aus.
+Werte, die ausdrücklich unbekannt sind, weisen wir als `None` aus.
 
 Zellen ohne Werte lassen wir leer:
 ```
