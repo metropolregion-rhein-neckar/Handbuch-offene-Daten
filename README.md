@@ -97,6 +97,9 @@ Werte über den geographischen Standort können auf unterschiedliche Weise einge
 - Adresse, d.h. Straße, Hausnummer, Postleitzahl und Ort (jeweils eine Spalte)
 - Geometrie im [WKT](http://giswiki.org/wiki/Well_Known_Text)-Format
 
+Falls Koordinaten oder eine Geometrie für die Angabe des Geographischen Standorts verwendet wurden, sollte zusätzlich noch das verwendete Koordinatensystem angegeben werden.
+Hierfür den EPSG-Code im Dateinamen oder explizit in den Metadaten vermerken (bspw. Beispiel_Tabelle_4326.csv).
+
 ### Empfehlungen
 Wir wählen möglichst aussagekräftige Spaltenüberschriften (Variabeln). Ihre Bedeutung erklären wir:
 - (wenn kurz) in der Metadaten-Beschreibung der entsprechenden Daten-Ressource oder
