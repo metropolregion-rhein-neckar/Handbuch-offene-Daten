@@ -70,6 +70,7 @@ Alle Zellen einer Spalte haben dasselbe Daten-Format. Die häufigsten sind:
 3. `Datum`
 4. `Uhrzeit`
 5. `URL`
+6. `Geographischer Standort`
 
 Einheitsangaben dürfen nicht zusammen mit Werten in derselben Zelle stehen. <br>
 
@@ -89,6 +90,11 @@ Werte mit Daten-Format `Uhrzeit` geben wir dem [internationalen Standard ISO 860
 
 ##### 5. URL 
 Werte mit Daten-Format `URL` schreiben wir standardmässig aufrufbar aus im Format `https://...`. <br>
+
+##### 6. Geographischer Standort
+Werte über den geographischen Standort können auf unterschiedliche Weise eingetragen werden
+- Längen/Breitengrad (jeweils eine Spalte)
+- Adresse, d.h. Straße, Hausnummer, Postleitzahl und Ort (jeweils eine Spalte)
 
 ### Empfehlungen
 Wir wählen möglichst aussagekräftige Spaltenüberschriften (Variabeln). Ihre Bedeutung erklären wir:
@@ -110,3 +116,9 @@ jahr,organisationseinheit,gesuche_haengig_jan,gesuche_total,zugang_uneingeschrae
 2013,Staatskanzlei,,,
 ...
 ```
+
+## Lizenzen
+Lizenzen bestimmen die Regeln, unter denen Nutzer die vorhandenen Daten verwenden können. Grundsätzlich arbeiten wir mit freien Lizenzen und lassen nur in begründeten Fällen weitere Lizenztypen zu. 
+
+Wir unterstützen folgende offenen Lizenztypen und orientieren uns hierbei an den Vorgaben vom nationalen Datenportal: 
+[Vorgaben vom nationalen Datenportal](https://www.dcat-ap.de/def/licenses/)
