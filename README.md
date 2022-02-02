@@ -92,9 +92,10 @@ Werte mit Daten-Format `Uhrzeit` geben wir dem [internationalen Standard ISO 860
 Werte mit Daten-Format `URL` schreiben wir standardmässig aufrufbar aus im Format `https://...`. <br>
 
 ##### 6. Geographischer Standort
-Werte über den geographischen Standort können auf unterschiedliche Weise eingetragen werden
+Werte über den geographischen Standort können auf unterschiedliche Weise eingetragen werden:
 - Längen/Breitengrad (jeweils eine Spalte)
 - Adresse, d.h. Straße, Hausnummer, Postleitzahl und Ort (jeweils eine Spalte)
+- Geometrie im [WKT](http://giswiki.org/wiki/Well_Known_Text)-Format
 
 ### Empfehlungen
 Wir wählen möglichst aussagekräftige Spaltenüberschriften (Variabeln). Ihre Bedeutung erklären wir:
